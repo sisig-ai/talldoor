@@ -1,0 +1,6 @@
+tldr-pages/
+tldr-pages.en.zip
+
+.ruff_cache/
+__pycache__
+*.pyc
